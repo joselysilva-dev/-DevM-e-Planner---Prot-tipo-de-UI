@@ -1,4 +1,4 @@
-# DevMae Planner Protótipo de UI
+# DevMãe Planner Protótipo de UI
 Protótipo de UI para o DevMãe Planner: um aplicativo de organização para mães na área de tecnologia. Projeto de estudo (ADS).
 # 👩‍💻 DevMãe Planner - Protótipo de UI
 
