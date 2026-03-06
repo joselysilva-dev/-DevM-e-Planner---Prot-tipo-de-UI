@@ -1,9 +1,6 @@
 # DevMãe Planner Protótipo de UI
 Protótipo de UI para o DevMãe Planner: um aplicativo de organização para mães na área de tecnologia. Projeto de estudo (ADS).
-# 👩‍💻 DevMãe Planner - Protótipo de UI
-
 Este repositório apresenta o protótipo de interface (UI) para o aplicativo **DevMãe Planner**, um projeto conceitual desenvolvido durante o meu primeiro mês no curso de Análise e Desenvolvimento de Sistemas (ADS).
-
 ## 🎯 Sobre o Projeto
 
 O **DevMãe Planner** foi idealizado para ser uma ferramenta de organização centralizada para mães que atuam ou estudam na área de tecnologia. O objetivo é auxiliar no equilíbrio entre a carreira tech, os estudos constantes e a rotina familiar.
